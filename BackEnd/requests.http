@@ -1,0 +1,8 @@
+### GET
+GET https://history.openweathermap.org/data/3.0/history/timemachine?lat=33.6820948&lon=-7.3940445&dt=606348800&appid=6f045c8082c014de27cc6b18dc4819c8
+
+###
+GET localhost:8000/predict/weather/16/16/11/2022
+
+###
+GET localhost:8000/predict/weather/14/3/1/2023
